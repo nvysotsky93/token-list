@@ -11290,6 +11290,20 @@
       }
     }
   ],
+  {
+      "chainId": 101,
+      "address": "BmYqkGQ5KHmH4XkPkTAns7FyT678DEHoPHZkxnCDL26C",
+      "symbol": "C500",
+      "name": "C500 Token",
+      "decimals": 6,
+      "logoURI": "https://linkinfo.ru/500.svg",
+      "tags": ["],
+      "extensions": {
+        "website": "https://linkinfo.ru/"
+      }
+    }
+  ],
+  
   "version": {
     "major": 0,
     "minor": 2,
